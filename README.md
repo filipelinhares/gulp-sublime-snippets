@@ -1,4 +1,4 @@
-#Gulp Snippets for Sublime Text [![BuildStatus](https://travis-ci.org/FilipeLinhares/gulp-sublime-snippets.png?branch=master)](https://travis-ci.org/FilipeLinhares/gulp-sublime-snippets)
+#Gulp Snippets for Sublime Text
 
 ###vargulp
 `var gulp = require('gulp-name');`
