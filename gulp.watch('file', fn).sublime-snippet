@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+gulp.watch('${1:files/folder}', function(${2:event}){
+  ${3://content}
+});
+]]></content>
+  <tabTrigger>gulpw</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+gulp.src('${1:scriptFiles}')
+  .pipe(${2:name}('${3:file}'))
+]]></content>
+   	<tabTrigger>gulps</tabTrigger>
+ 	<scope>source.js</scope>
+</snippet>

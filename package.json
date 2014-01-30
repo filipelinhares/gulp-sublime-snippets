@@ -1,0 +1,22 @@
+{
+  "name": "gulp-sublime-snippets",
+  "version": "0.0.1",
+  "description": "Gulp snippets for Sublime Text",
+  "main": "gulp",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FilipeLinhares/gulp-sublime-snippets.git"
+  },
+  "keywords": [
+    "javascript",
+    "sublime",
+    "text",
+    "snippets"
+  ],
+  "author": "Filipe Linhares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FilipeLinhares/gulp-sublime-snippets/issues"
+  },
+  "homepage": "https://github.com/FilipeLinhares/gulp-sublime-snippets"
+}
