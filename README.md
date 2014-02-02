@@ -3,11 +3,16 @@
 ###vargulp
 `var gulp = require('gulp-name');`
 
-###gulpd
+###gulpt
 ```
 gulp.task('name', function() {
     // content
 }
+```
+
+###gulpd
+```
+.pipe(gulp.dest('folder'));
 ```
 
 ###gulps
