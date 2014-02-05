@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-gulp.watch(${1:'file'}, ${2:['tasks']});
+gulp.watch('${1:files}', ['${2:tasks}']);
 ]]></content>
   <tabTrigger>gulpw</tabTrigger>
   <scope>source.js</scope>
