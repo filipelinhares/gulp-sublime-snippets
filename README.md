@@ -35,7 +35,7 @@ gulp.task('name',['tasks'], function() {
 
 ###gulpwcb - [Docs](https://github.com/gulpjs/gulp/blob/master/docs/API.md#gulpwatchglob-opts-cb)
 ```
-gulp.watch('file'}, function(event) {
+gulp.watch('file', function(event) {
   console.log(' File '+event.path+' was '+event.type+', running tasks...');
 });
 ```
