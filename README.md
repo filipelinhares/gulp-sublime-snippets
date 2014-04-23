@@ -1,13 +1,15 @@
+# ***[Atenction]***
+## This project now is merged with [Sublime Gulp](https://github.com/NicoSantangelo/sublime-gulp)
+
 #[Gulp](http:www.gulpjs.com) Snippets for Sublime Text
 
 ![Gulp Snippets](https://imagizer.imageshack.us/v2/800x307q90/842/1dl6.jpg)
 
 ##Even more. Speed. Efficiency. Simplicity.
----
+
 
 ###vargulp
 `var gulp = require('gulp-name');`
-
 
 ###pipe
 `.pipe(name('file'))`
@@ -39,6 +41,5 @@ gulp.watch('file', function(event) {
   console.log(' File '+event.path+' was '+event.type+', running tasks...');
 });
 ```
-
 
 #####Update - Just Remove and Install again.
